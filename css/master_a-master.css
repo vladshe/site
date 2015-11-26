@@ -1,0 +1,409 @@
+#u442
+{
+	background-color: #252122;
+	opacity: 0.85;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
+	filter: alpha(opacity=85);
+}
+
+#u85-14
+{
+	background-color: transparent;
+	color: #5D5D5D;
+	text-align: right;
+	font-size: 16px;
+	line-height: 16px;
+	letter-spacing: 1px;
+	font-family: '__DINPro_5';
+	font-weight: 500;
+	position: relative;
+}
+
+#u116-6
+{
+	background-color: transparent;
+	color: #C20A00;
+	text-align: center;
+	font-size: 23px;
+	line-height: 28px;
+	letter-spacing: 3px;
+	font-family: '__DINPro_5';
+	font-weight: 400;
+	position: relative;
+}
+
+#u295,#u296
+{
+	background-color: #FFFFFF;
+}
+
+#u570-4,#u571-4,#u572-4
+{
+	background-color: transparent;
+	color: #000000;
+	text-align: center;
+	font-size: 14px;
+	letter-spacing: 3px;
+	font-family: '__DINPro_5';
+	font-weight: 400;
+	position: relative;
+}
+
+#u518-4
+{
+	background-color: transparent;
+	color: #58585A;
+	text-align: center;
+	font-size: 30px;
+	line-height: 36px;
+	letter-spacing: 3px;
+	font-family: '__DINPro_5';
+	font-weight: 500;
+	position: relative;
+}
+
+#u548-4
+{
+	background-color: transparent;
+	color: #000000;
+	text-align: left;
+	letter-spacing: 3px;
+	font-family: '__DINPro_5';
+	font-weight: 400;
+	position: relative;
+}
+
+#u581
+{
+	background-color: #4C494A;
+}
+
+#u579-4
+{
+	background-color: transparent;
+	color: #FFFFFF;
+	line-height: 16px;
+	font-size: 13px;
+	font-family: '__DINPro_5';
+	font-weight: 400;
+	position: relative;
+}
+
+#u522-10,#u457-10
+{
+	background-color: transparent;
+	text-align: justify;
+	font-size: 15px;
+	line-height: 24px;
+	font-family: '__Baufra_5';
+	font-weight: 500;
+	position: relative;
+}
+
+#u177
+{
+	background: transparent url("../images/map_1.jpg") no-repeat center top;
+}
+
+#u460-4,#u461-4,#u464-4
+{
+	background-color: transparent;
+	color: #C20A00;
+	text-align: center;
+	font-size: 37px;
+	line-height: 44px;
+	letter-spacing: 3px;
+	font-family: '__DINPro_5';
+	font-weight: 500;
+	position: relative;
+}
+
+#u801-5
+{
+	background-color: transparent;
+	color: #000000;
+	text-align: right;
+	letter-spacing: 3px;
+	font-family: '__DINPro_5';
+	font-weight: 400;
+	position: relative;
+}
+
+#u223-4
+{
+	background-color: transparent;
+	color: #58585A;
+	text-align: center;
+	font-size: 27px;
+	line-height: 32px;
+	letter-spacing: 1px;
+	font-family: '__DINPro_5';
+	font-weight: 500;
+	position: relative;
+}
+
+#u193,#u492
+{
+	background-color: #FAFAFB;
+}
+
+#u493-4
+{
+	background-color: transparent;
+	color: #58585A;
+	text-align: right;
+	font-size: 30px;
+	line-height: 36px;
+	letter-spacing: 3px;
+	font-family: '__DINPro_5';
+	font-weight: 500;
+	position: relative;
+}
+
+#u513-4
+{
+	background-color: transparent;
+	color: #58585A;
+	text-align: left;
+	font-size: 30px;
+	line-height: 36px;
+	letter-spacing: 3px;
+	font-family: '__DINPro_5';
+	font-weight: 500;
+	position: relative;
+}
+
+#u500-4,#u514-4
+{
+	background-color: transparent;
+	text-align: justify;
+	font-size: 13px;
+	line-height: 19px;
+	font-family: '__Baufra_5';
+	font-weight: 500;
+	position: relative;
+}
+
+#u584
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background: transparent url("../images/slide_2.png") no-repeat left top;
+}
+
+#u584:hover
+{
+	background: transparent url("../images/slide_2.png") no-repeat left top;
+}
+
+#u586
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background: transparent url("../images/slide_2.png") no-repeat left top;
+}
+
+#u586:hover
+{
+	background: transparent url("../images/slide_2.png") no-repeat left top;
+}
+
+#u585
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background: transparent url("../images/slide_2.png") no-repeat left top;
+}
+
+#u585:hover
+{
+	background: transparent url("../images/slide_2.png") no-repeat left top;
+}
+
+#u793
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background: transparent url("../images/slide_2.png") no-repeat left top;
+}
+
+#u793:hover
+{
+	background: transparent url("../images/slide_2.png") no-repeat left top;
+}
+
+#u584.PamphletThumbSelected,#u586.PamphletThumbSelected,#u585.PamphletThumbSelected,#u793.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+	background: transparent url("../images/slide.png") no-repeat left top;
+}
+
+#u591
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u743-13,#u594-13,#u745-13
+{
+	background-color: transparent;
+	text-align: center;
+	position: relative;
+}
+
+#u743-3,#u743-5,#u594-3,#u594-5,#u745-3,#u745-5
+{
+	font-size: 15px;
+	line-height: 18px;
+	letter-spacing: 3px;
+	color: #000000;
+	font-family: '__DINPro_5';
+	font-weight: 500;
+}
+
+#u743-6,#u594-6,#u745-6
+{
+	font-size: 15px;
+	line-height: 15px;
+	letter-spacing: 0px;
+	color: #000000;
+	font-family: '__DINPro_5';
+	font-weight: 500;
+}
+
+#u743-8,#u594-8,#u745-8
+{
+	line-height: 18px;
+	color: #7F7F7F;
+	font-family: '__DINPro_5';
+	font-weight: 500;
+}
+
+#u743-10,#u594-10,#u745-10
+{
+	line-height: 18px;
+	color: #7F7F7F;
+	font-style: italic;
+}
+
+#u743-2,#u743-11,#u594-2,#u594-11,#u745-2,#u745-11
+{
+	font-size: 20px;
+	line-height: 24px;
+	letter-spacing: 3px;
+	color: #C20A00;
+	font-family: '__DINPro_5';
+	font-weight: 500;
+}
+
+#u354,#u954,#u896,#u601,#u592,#u598,#u788
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u449,#u552,#u236,#u913,#u956,#u573,#u910,#u494,#u501,#u507,#u515,#u519,#u770,#u776,#u782,#u795
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u794-14
+{
+	background-color: transparent;
+	text-align: center;
+	font-family: '__DINPro_5';
+	font-weight: 500;
+	position: relative;
+}
+
+#u794-3,#u794-5
+{
+	font-size: 15px;
+	line-height: 18px;
+	letter-spacing: 3px;
+	color: #000000;
+}
+
+#u794-6
+{
+	font-size: 15px;
+	line-height: 15px;
+	letter-spacing: 0px;
+	color: #000000;
+}
+
+#u794-8,#u794-11
+{
+	line-height: 18px;
+	color: #7F7F7F;
+}
+
+#u794-9
+{
+	font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+	font-style: italic;
+}
+
+#u794-2,#u794-12
+{
+	font-size: 20px;
+	line-height: 24px;
+	letter-spacing: 3px;
+	color: #C20A00;
+}
+
+#u589
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background: transparent url("../images/st_l.png") no-repeat left top;
+}
+
+#u589:active
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u621
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background: transparent url("../images/st_r.png") no-repeat right top;
+}
+
+#u621:hover
+{
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u946
+{
+	background-color: #4C494A;
+	position: relative;
+}
+
+#top,#projekt,#u295_align_to_page,#u296_align_to_page,#ttttt,#classes,#u581_align_to_page,#u177_align_to_page,#trip,#u193_align_to_page,#u369,#u370,#u492_align_to_page,#pamphletu582,#u583,#u953,#u962,#u963
+{
+	position: relative;
+}
+

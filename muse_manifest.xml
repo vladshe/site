@@ -1,0 +1,64 @@
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1448485532630">
+  <folder name="assets">
+    <file name="backtojapan.mp4" crc="3785323261" mt="1440875882000"/>
+    <file name="load.gif" crc="401918530" mt="1440990896000"/>
+    <file name="bg_gl.jpg" crc="171994368" mt="1440536739000"/>
+    <file name="backtojapan.webm" crc="366211291" mt="1440991600000"/>
+    <file name="backtojapan.ogg" crc="3862507045" mt="1440993622000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="470244055"/>
+    <file name="master_a-master.css" crc="482672640" ref="index"/>
+    <file name="index.css" crc="135684223" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="bauframedium.woff" crc="3814648641"/>
+    <file name="bauframedium.eot" crc="4229159527"/>
+    <file name="bauframedium.svg" crc="433611860"/>
+    <file name="baufrasemibold.woff" crc="4227334250"/>
+    <file name="baufrasemibold.eot" crc="3940041600"/>
+    <file name="baufrasemibold.svg" crc="159998145"/>
+    <file name="dinproregular.woff" crc="307320410"/>
+    <file name="dinproregular.eot" crc="498188484"/>
+    <file name="dinproregular.svg" crc="450755994"/>
+    <file name="dinprolight.woff" crc="3952519326"/>
+    <file name="dinprolight.eot" crc="480329967"/>
+    <file name="dinprolight.svg" crc="3896024391"/>
+    <file name="dinpromedium.woff" crc="4167991604"/>
+    <file name="dinpromedium.eot" crc="357138997"/>
+    <file name="dinpromedium.svg" crc="52444032"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index"/>
+    <file name="museutils.js" crc="3793461109" ref="index"/>
+    <file name="jquery.watch.js" crc="3766403489" ref="index"/>
+    <file name="webpro.js" crc="4263367560" ref="index"/>
+    <file name="musewpslideshow.js" crc="126372691" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3946374898" ref="index"/>
+    <file name="touchswipe.js" crc="3796284560" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="back-to-japan---the-road-trip-of-a-lifetime-favicon.ico" crc="314913114" ref="index"/>
+    <file name="vladshe.png" crc="4077046206" ref="index"/>
+    <file name="bg_gl.jpg" crc="171994368" ref="index"/>
+    <file name="logo_white.png" crc="18693020" ref="index"/>
+    <file name="logo2.png" crc="3989831592" ref="index"/>
+    <file name="map_1.jpg" crc="4232458241" ref="index"/>
+    <file name="sp.jpg" crc="199345584" ref="index"/>
+    <file name="1sss.jpg" crc="408337279" ref="index"/>
+    <file name="line_red2.png" crc="3840462701" ref="index"/>
+    <file name="2sss.jpg" crc="356656208" ref="index"/>
+    <file name="slide_2.png" crc="4292482262" ref="index"/>
+    <file name="1map.png" crc="4110251782" ref="index"/>
+    <file name="2map.png" crc="1445514" ref="index"/>
+    <file name="3map.png" crc="457292833" ref="index"/>
+    <file name="4map.png" crc="3862304384" ref="index"/>
+    <file name="slide.png" crc="454180283" ref="index"/>
+    <file name="st_l.png" crc="3887668688" ref="index"/>
+    <file name="st_r.png" crc="3922881655" ref="index"/>
+    <file name="inst.png" crc="369805282" ref="index"/>
+    <file name="mail.png" crc="366366234" ref="index"/>
+    <file name="lll.jpg" crc="203917782" ref="index"/>
+  </folder>
+  <file name="index.html" crc="204853792" mt="1448485267167" redirect="true"/>
+</manifest>
